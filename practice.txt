@@ -1,0 +1,18 @@
+
+touch <file>
+git add <file>  --to push the file to staging area
+git commit -m <file>  --to push the file to local repositery
+git push -u origin <branch name>  --to push the file from local repositery to central repositery
+git remote -v   --check the status of connected links to git bash
+git branch -a   --to the check the braches available in directory
+git checkout -b <new name of branch> --created and swithed to new branch
+cat <file>  --to check the data in file
+vi <file>  --to edit the data in a file and :wq is the recording of data enterd in file
+git clone <url> file which we want to copied into local repositery
+git merge <branch> which files we want to movie into active branch
+git switch <branch> just jump between the branches to work in it
+git log --to display the all commit msg
+git init to create a default file in new directory
+git remote <url> to link the git bash with central repositery
+git confg user.name "<name of user>"
+git confg user.email "< email of github>"
