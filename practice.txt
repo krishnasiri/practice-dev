@@ -1,4 +1,5 @@
 
+manualy entered git commands
 touch <file>
 git add <file>  --to push the file to staging area
 git commit -m <file>  --to push the file to local repositery
