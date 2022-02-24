@@ -1,0 +1,12 @@
+before installation of master and slave config 
+create a instance in aws and launch it
+next run it and click on connect and open git bash in local machine where our .pem file is located
+next copy the example link from connect option in chrome and paste it on git bash prompt
+and type yes and enter
+now the instance connected to local machine
+now give command sudo -i or sudo su -
+this will direct the root user 
+now create one directory by using mkdir <file name>
+now enter into that directory via cd <file name>
+now install java jdk file and check it running status via java -version or javac
+if it is running now configure the root path and details of slave machine in master machine at node creation.
