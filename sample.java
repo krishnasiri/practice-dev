@@ -13,4 +13,6 @@ public class CountCharacter
         //Displays the total number of characters present in the given string    
         System.out.println("Total number of characters in a string: " + count);    
     }    
-}     
+}    
+
+// just adding extra line to give token access for git bash
